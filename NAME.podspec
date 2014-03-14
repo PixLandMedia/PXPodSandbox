@@ -18,8 +18,8 @@ Pod::Spec.new do |s|
   s.screenshots      = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Tamás Németh" => "nemeth@pixlandmedia.com" }
-  s.source           = { :git => "http://EXAMPLE/NAME.git", :tag => s.version.to_s }
-  s.social_media_url = 'https://twitter.com/NAME'
+  s.source           = { :git => "https://github.com/PixLandMedia/PXPodSandbox.git", :tag => s.version.to_s }
+  s.social_media_url = 'https://twitter.com/pixlandmedia'
 
   s.platform     = :ios, '6.0'
   s.ios.deployment_target = '6.0'
